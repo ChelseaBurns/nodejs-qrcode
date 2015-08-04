@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-qrcode",
+  "version": "1.0.0",
+  "description": "This app will generate a QR code for the NodeJS website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChelseaBurns/nodejs-qrcode.git"
+  },
+  "author": "Chelsea Burns <iamchelseacreative@jmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChelseaBurns/nodejs-qrcode/issues"
+  },
+  "homepage": "https://github.com/ChelseaBurns/nodejs-qrcode#readme",
+  "dependencies": {
+    "qr-image": "^3.1.0"
+  }
+}
